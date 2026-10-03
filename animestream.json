@@ -1,0 +1,15 @@
+{
+  "sourceName": "AnimeStream Community",
+  "author": {
+    "name": "Community module"
+  },
+  "version": "1.0.0",
+  "baseUrl": "https://reanime.to",
+  "searchBaseUrl": "https://reanime.to/api/v1/search?q=",
+  "scriptUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/shirox-anime-module/main/animestream.js",
+  "type": "anime",
+  "asyncJS": true,
+  "streamType": "HLS/MP4",
+  "language": "Japanese / English subtitles",
+  "softsub": true
+}
