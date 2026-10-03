@@ -1,0 +1,1 @@
+# shirox-anime-module
